@@ -1,0 +1,7 @@
+{
+    "name": "Linux side button fix",
+    "version": "1.0.0",
+    "description": "Fixes mouse side buttons going forwards/backwards twice on Linux",
+    "author": "nakog#3502",
+    "license": "MIT"
+}
